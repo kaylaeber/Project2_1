@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Hell.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Heaven.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/InteractionCollider.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/StartGame.js" Line="1" Column="1" />
+      <File FileName="Assets/First Person Drifter Controller/Scripts/FirstPersonDrifter.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/LeftHandBallFire.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ShotCounter.cs" Line="1" Column="1" />
+      <File FileName="Assets/Kayla's Animations/scripts/Fire.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/LookAtPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Hell.cs" Line="21" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
